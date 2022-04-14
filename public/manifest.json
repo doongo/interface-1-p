@@ -1,6 +1,6 @@
 {
-  "short_name": "Pangolin",
-  "name": "Pangolin",
+  "short_name": "Kripto",
+  "name": "Kripto",
   "description": "Swap or provide liquidity on the Pangolin Exchange",
   "iconPath": "./images/384x384_App_Icon.png",
   "icons": [
@@ -20,6 +20,6 @@
   "start_url": ".",
   "orientation": "portrait",
   "display": "standalone",
-  "theme_color": "#FF6B00",
+  "theme_color": "#8ad0fd",
   "background_color": "#fff"
 }
