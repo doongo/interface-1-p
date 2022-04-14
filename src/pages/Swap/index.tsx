@@ -328,11 +328,6 @@ export default function Swap() {
         </WarningWrapper>
       )}
 
-      <TopText>
-        <Trans i18nKey="swapPage.velox">
-  
-        </Trans>
-      </TopText>
 
       <AppBody>
         <SwapPoolTabs active={'swap'} />
