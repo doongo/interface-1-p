@@ -3,13 +3,13 @@ import { ChainId, Token } from '@pangolindex/sdk'
 const ZERO_ADDRESS = '0x0000000000000000000000000000000000000000'
 
 export const PNG: { [chainId in ChainId]: Token } = {
-  [ChainId.FUJI]: new Token(ChainId.FUJI, '0x83080D4b5fC60e22dFFA8d14AD3BB41Dde48F199', 18, 'PNG', 'Pangolin'),
+  [ChainId.FUJI]: new Token(ChainId.FUJI, '0x83080D4b5fC60e22dFFA8d14AD3BB41Dde48F199', 18, 'KRO', 'KRIPTO'),
   [ChainId.AVALANCHE]: new Token(
     ChainId.AVALANCHE,
     '0x60781C2586D68229fde47564546784ab3fACA982',
     18,
-    'PNG',
-    'Pangolin'
+    'KRO',
+    'KRIPTO'
   ),
   [ChainId.WAGMI]: new Token(
     ChainId.WAGMI,
