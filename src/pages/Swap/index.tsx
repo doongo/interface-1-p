@@ -330,10 +330,7 @@ export default function Swap() {
 
       <TopText>
         <Trans i18nKey="swapPage.velox">
-          Set a limit order on
-          <VeloxLink href={'https://app.velox.global/'} target={'_blank'}>
-            Velox
-          </VeloxLink>
+  
         </Trans>
       </TopText>
 
